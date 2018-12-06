@@ -1,0 +1,9 @@
+D:\TestAutomation\UnitTestProject1\bin\Debug\ProPortal.dll
+D:\TestAutomation\UnitTestProject1\bin\Debug\ProPortal.pdb
+D:\TestAutomation\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\TestAutomation\UnitTestProject1\bin\Debug\WebDriver.dll
+D:\TestAutomation\UnitTestProject1\bin\Debug\WebDriver.Support.dll
+D:\TestAutomation\UnitTestProject1\bin\Debug\WebDriver.xml
+D:\TestAutomation\UnitTestProject1\bin\Debug\WebDriver.Support.xml
+D:\TestAutomation\UnitTestProject1\obj\Debug\ProPortal.dll
+D:\TestAutomation\UnitTestProject1\obj\Debug\ProPortal.pdb
